@@ -4,11 +4,7 @@
 <!doctype html>
 <html lang="ko">
 <head>
-	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<link rel="stylesheet" href="./bootstrap-4.6.0-dist/css/bootstrap.min.css">
-	<!-- 커스텀 CSS 추가 -->
-	<link rel="stylesheet" href="./css/custom.css">
-	
+	<%@ include file="link.txt"%>
 </head>
 <body>
 <%
@@ -28,49 +24,69 @@
 	
 %>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a class="navbar-brand" href="index.jsp">강의평가 웹 사이트</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-			
-		<div id="navbar" class ="collapse navbar-collapse justify-content-between">
-			<ul class="navbar-nav">
-				<li class ="dropdown-content nav-item dropdown active">
-					<a class="nav-link" href="main.jsp">메인</a>
-				</li>
-				<li class="nav-item dropdown">
+<!--================ Start Header Area =================-->
+	<header class="header_area">
+		<div class="main_menu">
+			<nav class="navbar navbar-expand-lg navbar-light">
+				<div class="container">
+					<!-- Brand and toggle get grouped for better mobile display -->
+					<a class="navbar-brand logo_h" href="home.jsp"><img src="img/logo.png" alt=""></a>
+					<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+					 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+					<!-- Collect the nav links, forms, and other content for toggling -->
+					<div class="collapse navbar-collapse offset" id="navbarSupportedContent">
+						<ul class="nav navbar-nav menu_nav justify-content-end">
+							<li class="nav-item active"><a class="nav-link" href="home.jsp">Home</a></li>
+							<li class="nav-item"><a class="nav-link" href="index.jsp">Main</a></li>
+							<li class="nav-item"><a class="nav-link" href="https://www.notion.so/6af7766e979542d1bb41190accc88735?pvs=4">Portfolio</a></li>
+							<li class="nav-item submenu dropdown">
 <%
 	if(userID == null) {
 %>
-					<a class="nav-link dropdown-toggle" id="dropdown" data-toggle="dropdown">회원관리</a>
-					<div class="dropdown-menu" aria-labelledby="dropdown">
-						<a class="dropdown-item" href="userLogin.jsp">로그인</a>
-						<a class="dropdown-item active" href="userJoin.jsp">회원가입</a>
-<%
+								<a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+								 aria-expanded="false">User Page</a>
+								<ul class="dropdown-menu">
+									<li class="nav-item"><a class="nav-link" href="userLogin.jsp">Login</a></li>
+									<li class="nav-item"><a class="nav-link" href="userJoin.jsp">Join</a></li><%
 	} else {
 %>
-						<a class="dropdown-item" href="userLogout.jsp">로그아웃</a>
+									<li class="nav-item"><a class="nav-link" href="userLogout.jsp">Logout</a></li>
+								</ul>
+							</li>
 <%
 }
 %>
-					</div>	
-				</li>
-			</ul>
-			<form action = "./index.jsp" method="get" class="d-flex">
-				<input name="search" class="form-control mr-2" type="text" placeholder="Search" aria-label="Search">
-				<button class="btn btn-outline-success" type="submit">Search</button>
-			</form>
+						</ul>
+						
+					</div>
+					<form action="./index.jsp" method="get" class="form-inline my-2 my-lg-0 ml-3">
+                        <input name="search" class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+                        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+                    </form>
+				</div>
+			</nav>
 		</div>
-	</nav>
+	</header>
 	
-	<section class="container mt-3" style="max-width: 560px;">
-		<div class="alter alter-warning mt-4" role="alter">
-		이메일 주소 인증을 하셔야 이용 가능합니다. 인증 메일을 받지 못하셨나요?
-		</div>
-		<a href="emailSendAction.jsp" class="btn btn-primary">인증 메일 다시 받기</a>
-	</section>
 	
+	<section class="about_area section_gap">
+		<div class="container">
+		    <div class="row justify-content-center">
+				<div class="container">
+				    <div class="alert alert-success mt-4" role="alert">
+					  이메일 주소 인증을 하셔야 이용 가능합니다. 인증 메일을 받지 못하셨나요?
+						<br><a href="emailSendAction.jsp" class="btn btn-primary">인증 메일 다시 받기</a>
+					</div>
+			    </div>
+		    </div>
+	    </div>
+	</section>    
+	
+
 	<%@ include file="../footer.jsp"%>
 	
 	<!-- Jquery 자바스크립트 추가하기 -->		
