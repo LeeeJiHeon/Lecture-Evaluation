@@ -1,0 +1,29 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" href="img/favicon.png" type="image/png">
+<title>Lecture Evaluation Web</title>
+<!-- Bootstrap CSS -->
+<link rel="stylesheet" href="./css/bootstrap.css">
+<link rel="stylesheet" href="./vendors/linericon/style.css">
+<link rel="stylesheet" href="./css/font-awesome.min.css">
+<link rel="stylesheet" href="./vendors/owl-carousel/owl.carousel.min.css">
+<link rel="stylesheet" href="./css/magnific-popup.css">
+<link rel="stylesheet" href="./vendors/nice-select/css/nice-select.css">
+<!-- main css -->
+<link rel="stylesheet" href="./css/style.css">
+<link rel="stylesheet" href="./css/login.css">
+
+<link rel="stylesheet" href="./bootstrap-4.6.0-dist/css/bootstrap.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+<meta name="description" content="" />
+<meta name="author" content="" />
+<!-- Favicon-->
+<link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+<!-- Font Awesome icons (free version)-->
+<script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+<!-- Google fonts-->
+<link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+<link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
+<!-- Core theme CSS (includes Bootstrap)-->
+<link href="./css/styles.css" rel="stylesheet" />
+	
