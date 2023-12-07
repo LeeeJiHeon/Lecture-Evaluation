@@ -21,8 +21,7 @@
 1. 회원가입 (userJoin.jsp) <br><br>
 ![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
 * userID, Password, Email을 작성하고, **Sign up** 버튼을 누르면 이메일 인증 페이지로 넘어간다.<br><br>
-* ⚠ 모든 항목이 작성되어야 한다.
-![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
+* ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 2. 인증 이메일 전송 (emailSendAction.jsp)
 ![이메일 인증](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e174b40f-8893-4d05-9a09-cffc964ba0f2)
@@ -50,7 +49,5 @@
 * 아래의 **이전**, **다음** 버튼을 통해 이동할 수 있다.<br><br>
 
 6. 평가등록 및 신고하기
-![신고하기](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c)
-![평가 등록](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798)
-
-<img src=https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/7b324daa-e15b-4d73-8001-35976b6774c8 width=30% height=120% />
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798 width=30% height=120% />
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c width=30% height=120% />
