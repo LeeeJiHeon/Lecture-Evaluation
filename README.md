@@ -18,9 +18,9 @@
 <br><br>
 
 ### 📲 주요 기능
-1. 회원가입 (userJoin.jsp) <br><br>
+1. 회원가입 (userJoin.jsp)
 ![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
-* userID, Password, Email을 작성하고, **Sign up** 버튼을 누르면 이메일 인증 페이지로 넘어간다.<br><br>
+* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.<br><br>
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 2. 인증 이메일 전송 (emailSendAction.jsp)
@@ -35,11 +35,11 @@
 
 4. 로그인 (userLogin.jsp)
 ![login](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/edf71b23-03b9-4652-97a0-4a35e65ffaca)
-* userID, Password를 입력하고 **Sign in** 버튼을 누르면 index.jsp로 넘어간다.
+* userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 index.jsp로 넘어간다.
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
-5. 메인화면 (index.jsp)
-* ![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
+5. 메인화면 (index.jsp)<br>
+![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
 * 사용자들이 작성한 강의평을 확인할 수 있다.
 * 강의평 등록 및 신고하기 기능이 있다.
 * 사용자는 강의평을 추천할 수 있다. 하지만 중복 추천은 불가능하다.
@@ -51,3 +51,5 @@
 6. 평가등록 및 신고하기
 <img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798 width=30% height=120% />
 <img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c width=30% height=120% />
+* 모든 항목을 작성하면 강의평이 게시된다.
+* 모든 항목을 작성한 후, **신고** 버튼을 클릭하면 신고가 접수된다.
