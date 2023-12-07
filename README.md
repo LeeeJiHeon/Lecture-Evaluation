@@ -15,6 +15,7 @@
 - Bootstrap, Popper, Jquery
 - Apache Tomcat(`9.0`)
 - MySQL
+- cafe24 웹 호스팅
 <br><br>
 
 ### 📲 주요 기능
