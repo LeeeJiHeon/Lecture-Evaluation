@@ -39,7 +39,7 @@
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 5. 메인화면 (index.jsp)
-![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
+* ![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
 * 사용자들이 작성한 강의평을 확인할 수 있다.
 * 강의평 등록 및 신고하기 기능이 있다.
 * 사용자는 강의평을 추천할 수 있다. 하지만 중복 추천은 불가능하다.
