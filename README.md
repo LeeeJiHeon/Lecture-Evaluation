@@ -1,5 +1,6 @@
 # Lecture_Evaluation
 ![home](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/60afa5a8-e723-4bc7-bbcd-8b318f4cbf89)
+[Lecture Evaluation] (http://leejiheon.cafe24.com/)
 <br><br>
 
 ## 💻 프로젝트 소개
