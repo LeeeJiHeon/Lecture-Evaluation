@@ -27,7 +27,7 @@
 **2. 인증 이메일 전송 (emailSendAction.jsp)**
 ![이메일 인증](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e174b40f-8893-4d05-9a09-cffc964ba0f2)
 ![이메일 확인](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/b90ed7fe-60b6-4d84-80c0-fe72059cd16a)
-* 사용자가 **이메일 인증하기** 링크를 클릭하면, 로그인된 상태로 index.jsp로 넘어간다.<br><br>
+* 사용자가 **이메일 인증하기** 링크를 클릭하면, 로그인된 상태로 **index.jsp**로 넘어간다.<br><br>
 
 **3. 인증 이메일 재전송 (emailSendConfirm.jsp)**
 ![이메일 인증 2](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/7413e686-8f52-4351-a4a2-9f3512105383)
@@ -36,14 +36,14 @@
 
 **4. 로그인 (userLogin.jsp)**
 ![login](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/edf71b23-03b9-4652-97a0-4a35e65ffaca)
-* userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 index.jsp로 넘어간다.<br>
+* userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 **index.jsp**로 넘어간다.<br>
 * ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 **5. 메인화면 (index.jsp)<br>**
 ![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
 * 사용자들이 작성한 강의평을 확인할 수 있다.
 * 강의평 등록 및 신고하기 기능이 있다.
-* 사용자는 강의평을 추천할 수 있다. 하지만 중복 추천은 불가능하다.
+* 사용자는 강의평을 추천할 수 있다. 하지만 중복 추천은 **불가능**하다.
 * 강의평은 작성자만 삭제할 수 있다.
 * 검색란에 내용을 입력 후 검색 버튼을 클릭하면, 관련 강의평이 표시된다.
 * 강의평은 한 페이지에 최대 5개가 표시된다.
