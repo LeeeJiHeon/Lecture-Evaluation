@@ -1,4 +1,4 @@
-# Lecture-Evaluation
+# Lecture_Evaluation
 강의 평가 Web Site
 <br><br>
 
