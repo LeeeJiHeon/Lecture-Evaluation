@@ -1,10 +1,9 @@
-# Lecture_Evaluation
+# Lecture_Evaluation (http://leejiheon.cafe24.com/)
 ![home](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/60afa5a8-e723-4bc7-bbcd-8b318f4cbf89)
 <br><br>
 
 ## 💻 프로젝트 소개
 강의 평가 글을 자유롭게 게시할 수 있는 Web Site 입니다.
-## [Lecture Evaluation] (http://leejiheon.cafe24.com/)
 <br><br>
 
 ## ⌚ 개발 기간
