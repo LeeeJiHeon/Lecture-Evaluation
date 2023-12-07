@@ -54,7 +54,7 @@
 <img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/2569721a-0c1a-4322-a008-6ffc47738086 width=30% height=120% /><br>
 * 모든 항목을 작성하면 강의평이 게시된다.
 * 모든 항목을 작성한 후, **신고** 버튼을 클릭하면 신고가 접수된다.<br><br>
----
+
 ## 💡 깨달은 점
 * XSS 방어
   - XSS란 Cross Site Scripting으로 악의적인 사용자가 사이트에 스크립트를 넣어 공격하는 기법.
