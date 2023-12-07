@@ -1,5 +1,5 @@
 # Lecture_Evaluation
-강의 평가 Web Site
+![home](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/129be6bf-48bf-4ce1-bd62-ef3f2803edbc)
 <br><br>
 
 ## 💻 프로젝트 소개
@@ -18,10 +18,18 @@
 <br><br>
 
 ### 📲 주요 기능
-- 로그인 / 회원가입 <br><br>
-<img src= https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/b9b13a59-8771-48d4-a0e2-9a057037166d width=30% height=120% /> <img src = https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/24c3117d-a9af-4be3-954a-1936ef7de63f width=30% height=120% /> <br><br>
+- 회원가입 <br><br>
+![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
+![login](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/edf71b23-03b9-4652-97a0-4a35e65ffaca)
+* userID, Password, Email을 작성하고, Sign up 버튼을 누르면 이메일 인증 페이지로 넘어간다.
+  ※ 모든 항목이 작성되어야만 한다.
+
+- 인증 이메일 전송
+- 
+
 
 - 학교 안내도 (팝업) <br><br>
+![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
 <img src= https://github.com/LeeeJiHeon/Schedule-Helper/assets/79850216/673eb8d3-1676-4bf7-87bb-8142bfd2324f width=30% height=120% /> <br><br>
 
 - 공지사항, 강의목록, 시간표, 게시판, 회원정보, 메뉴Bar 번역 <br><br>
