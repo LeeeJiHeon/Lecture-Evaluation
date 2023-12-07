@@ -20,8 +20,8 @@
 ### 📲 주요 기능
 **1. 회원가입 (userJoin.jsp)**
 ![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
-* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.<br>
-⚠ 모든 항목이 작성되어야 한다.<br><br>
+* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.
+* ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 **2. 인증 이메일 전송 (emailSendAction.jsp)**
 ![이메일 인증](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e174b40f-8893-4d05-9a09-cffc964ba0f2)
@@ -36,7 +36,7 @@
 **4. 로그인 (userLogin.jsp)**
 ![login](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/edf71b23-03b9-4652-97a0-4a35e65ffaca)
 * userID, Password를 입력하고 **Sign in** 버튼을 클릭하면 index.jsp로 넘어간다.<br>
-⚠ 모든 항목이 작성되어야 한다.<br><br>
+* ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 **5. 메인화면 (index.jsp)<br>**
 ![index](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/0967202b-9879-4564-abc0-5453c4f458f5)
