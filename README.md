@@ -49,9 +49,9 @@
 * 아래의 **이전**, **다음** 버튼을 통해 이동할 수 있다.<br><br>
 
 **6. 평가등록 및 신고하기**
-<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798 width=30% height=120% />
-<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c width=30% height=120% />
-<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/2569721a-0c1a-4322-a008-6ffc47738086 width=30% height=120% />
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798 width=20% height=60% />
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c width=20% height=60% />
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/2569721a-0c1a-4322-a008-6ffc47738086 width=20% height=60% />
 <br>
 * 모든 항목을 작성하면 강의평이 게시된다.
 * 모든 항목을 작성한 후, **신고** 버튼을 클릭하면 신고가 접수된다.<br><br>
