@@ -20,7 +20,7 @@
 ### 📲 주요 기능
 **1. 회원가입 (userJoin.jsp)**
 ![join](https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/e2451398-f5da-4944-8ac3-a35494b99b3e)
-* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.<br><
+* userID, Password, Email을 작성하고, **Sign up** 버튼을 클릭하면 이메일 인증 페이지로 넘어간다.<br>
 ⚠ 모든 항목이 작성되어야 한다.<br><br>
 
 **2. 인증 이메일 전송 (emailSendAction.jsp)**
@@ -51,7 +51,8 @@
 **6. 평가등록 및 신고하기**
 <img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/94e1a98c-8e78-49aa-afc8-179d935d1798 width=30% height=120% />
 <img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/eeedf897-d9ca-4c3e-b3f5-d889fd1aba3c width=30% height=120% />
-<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/2569721a-0c1a-4322-a008-6ffc47738086 width=30% height=120% /><br>
+<img src=https://github.com/LeeeJiHeon/Lecture-Evaluation/assets/79850216/2569721a-0c1a-4322-a008-6ffc47738086 width=30% height=120% />
+<br>
 * 모든 항목을 작성하면 강의평이 게시된다.
 * 모든 항목을 작성한 후, **신고** 버튼을 클릭하면 신고가 접수된다.<br><br>
 
